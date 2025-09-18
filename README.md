@@ -126,6 +126,7 @@ LOG_FILE=./logs/bot.log
 ## 👤 Autor
 
 Desenvolvido por **Yuri Braga**
+
 🔗 [github.com/yuribraga17](https://github.com/yuribraga17)
 
 ---
