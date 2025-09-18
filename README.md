@@ -42,8 +42,8 @@ project/
 ## ⚙️ Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/discord-price-monitor.git
-cd discord-price-monitor
+git clone https://github.com/yuribraga17/bot-fiscal-preco.git
+cd bot-fiscal-preco
 npm install
 ```
 
